@@ -1,0 +1,7 @@
+.container {
+font-family: Arial, sans-serif;
+  padding: 0;
+display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
